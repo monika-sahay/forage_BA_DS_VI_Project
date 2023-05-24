@@ -27,6 +27,8 @@ Analyzing customer feedback is crucial for businesses like British Airways to im
 
 
 
+<img width="508" alt="Screenshot 2023-05-24 135601" src="https://github.com/monika-sahay/forage_BA_DS_VI_Project/assets/1956409/c42294e4-f136-475a-9464-246559f52218">
 
 
+[completion_certificate.pdf](https://github.com/monika-sahay/forage_BA_DS_VI_Project/files/11554195/completion_certificate.pdf)
 
