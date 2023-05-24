@@ -1,5 +1,5 @@
 # forage_BA_DS_VI_Project
-Forage British airways virtual internship project
+The Data Science virtual internship program provides participants with practical experience in data analysis, web scraping, and predictive modeling. The program focuses on leveraging data to uncover meaningful patterns and trends, with the ultimate goal of enhancing customer understanding and decision-making.
 
 ## Analyzing Customer Feedback for British Airways
 
